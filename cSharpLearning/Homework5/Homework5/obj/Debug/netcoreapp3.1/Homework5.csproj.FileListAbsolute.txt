@@ -1,0 +1,13 @@
+X:\cSharpLearning\Homework5\Homework5\bin\Debug\netcoreapp3.1\Homework5.exe
+X:\cSharpLearning\Homework5\Homework5\bin\Debug\netcoreapp3.1\Homework5.deps.json
+X:\cSharpLearning\Homework5\Homework5\bin\Debug\netcoreapp3.1\Homework5.runtimeconfig.json
+X:\cSharpLearning\Homework5\Homework5\bin\Debug\netcoreapp3.1\Homework5.runtimeconfig.dev.json
+X:\cSharpLearning\Homework5\Homework5\bin\Debug\netcoreapp3.1\Homework5.dll
+X:\cSharpLearning\Homework5\Homework5\bin\Debug\netcoreapp3.1\Homework5.pdb
+X:\cSharpLearning\Homework5\Homework5\obj\Debug\netcoreapp3.1\Homework5.csprojAssemblyReference.cache
+X:\cSharpLearning\Homework5\Homework5\obj\Debug\netcoreapp3.1\Homework5.AssemblyInfoInputs.cache
+X:\cSharpLearning\Homework5\Homework5\obj\Debug\netcoreapp3.1\Homework5.AssemblyInfo.cs
+X:\cSharpLearning\Homework5\Homework5\obj\Debug\netcoreapp3.1\Homework5.csproj.CoreCompileInputs.cache
+X:\cSharpLearning\Homework5\Homework5\obj\Debug\netcoreapp3.1\Homework5.dll
+X:\cSharpLearning\Homework5\Homework5\obj\Debug\netcoreapp3.1\Homework5.pdb
+X:\cSharpLearning\Homework5\Homework5\obj\Debug\netcoreapp3.1\Homework5.genruntimeconfig.cache
