@@ -1,0 +1,91 @@
+{\rtf1\ansi\ansicpg936\cocoartf2512
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Regular;\f2\fnil\fcharset0 Menlo-Bold;
+}
+{\colortbl;\red255\green255\blue255;\red253\green143\blue63;\red31\green31\blue36;\red252\green106\blue93;
+\red255\green255\blue255;\red252\green95\blue163;\red122\green200\blue182;\red150\green134\blue245;\red145\green212\blue98;
+\red174\green243\blue125;\red153\green232\blue213;}
+{\*\expandedcolortbl;;\csgenericrgb\c99131\c56076\c24611;\csgenericrgb\c12054\c12284\c14131;\csgenericrgb\c98912\c41558\c36568;
+\csgenericrgb\c100000\c100000\c100000;\csgenericrgb\c98839\c37355\c63833;\csgenericrgb\c47716\c78607\c71403;\csgenericrgb\c58752\c52717\c95948;\csgenericrgb\c56799\c83212\c38450;
+\csgenericrgb\c68215\c95290\c48909;\csgenericrgb\c59926\c90967\c83488;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 4-20\
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+
+\f1 \cf2 \cb3 #include \cf4 <iostream>\cf5 \
+
+\f2\b \cf6 using
+\f1\b0 \cf5  
+\f2\b \cf6 namespace
+\f1\b0 \cf5  \cf7 std\cf5 ;\
+\
+\
+
+\f2\b \cf6 class
+\f1\b0 \cf5  Complex\{\
+
+\f2\b \cf6 public
+\f1\b0 \cf5 :\
+    Complex(
+\f2\b \cf6 double
+\f1\b0 \cf5  a = \cf8 0\cf5 ,
+\f2\b \cf6 double
+\f1\b0 \cf5  b = \cf8 0\cf5 );\
+    ~Complex()\{\}\
+    
+\f2\b \cf6 double
+\f1\b0 \cf5  getReal()\{
+\f2\b \cf6 return
+\f1\b0 \cf5  \cf9 realNum\cf5 ;\}\
+    
+\f2\b \cf6 double
+\f1\b0 \cf5  getImag()\{
+\f2\b \cf6 return
+\f1\b0 \cf5  \cf9 imagNum\cf5 ;\}\
+    
+\f2\b \cf6 void
+\f1\b0 \cf5  add(\cf9 Complex\cf5  c);\
+    
+\f2\b \cf6 void
+\f1\b0 \cf5  show();\
+
+\f2\b \cf6 private
+\f1\b0 \cf5 :\
+    
+\f2\b \cf6 double
+\f1\b0 \cf5  realNum,imagNum;\
+\};\
+\
+\
+
+\f2\b \cf6 int
+\f1\b0 \cf5  main()\{\
+    \cf9 Complex\cf5  c1(\cf8 3\cf5 ,\cf8 5\cf5 );\
+    \cf9 Complex\cf5  c2 = \cf8 4.5\cf5 ;\
+    c1.\cf10 add\cf5 (c2);\
+    c1.\cf10 show\cf5 ();\
+    
+\f2\b \cf6 return
+\f1\b0 \cf5  \cf8 0\cf5 ;\
+\}\
+\
+\cf9 Complex\cf5 ::Complex(
+\f2\b \cf6 double
+\f1\b0 \cf5  a,
+\f2\b \cf6 double
+\f1\b0 \cf5  b):\cf9 realNum\cf5 (a),\cf9 imagNum\cf5 (b)\{\}\
+\
+
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 Complex\cf5 ::add(\cf9 Complex\cf5  c)\{\
+    \cf9 realNum\cf5  += c.\cf10 getReal\cf5 ();\
+    \cf9 imagNum\cf5  += c.\cf10 getImag\cf5 ();\
+\}\
+\
+
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 Complex\cf5 ::show()\{\
+    \cf7 cout\cf5 <<\cf9 realNum\cf5 <<\cf4 "+"\cf5 <<\cf9 imagNum\cf5 <<\cf4 "i"\cf5 <<\cf11 endl\cf5 ;\
+\}\
+}

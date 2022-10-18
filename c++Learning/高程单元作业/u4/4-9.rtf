@@ -1,0 +1,88 @@
+{\rtf1\ansi\ansicpg936\cocoartf2512
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Regular;\f2\fnil\fcharset0 Menlo-Bold;
+}
+{\colortbl;\red255\green255\blue255;\red253\green143\blue63;\red31\green31\blue36;\red252\green106\blue93;
+\red255\green255\blue255;\red252\green95\blue163;\red122\green200\blue182;\red153\green232\blue213;\red145\green212\blue98;
+\red174\green243\blue125;}
+{\*\expandedcolortbl;;\csgenericrgb\c99131\c56076\c24611;\csgenericrgb\c12054\c12284\c14131;\csgenericrgb\c98912\c41558\c36568;
+\csgenericrgb\c100000\c100000\c100000;\csgenericrgb\c98839\c37355\c63833;\csgenericrgb\c47716\c78607\c71403;\csgenericrgb\c59926\c90967\c83488;\csgenericrgb\c56799\c83212\c38450;
+\csgenericrgb\c68215\c95290\c48909;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 4-9\
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+
+\f1 \cf2 \cb3 #include \cf4 <iostream>\cf5 \
+
+\f2\b \cf6 using
+\f1\b0 \cf5  
+\f2\b \cf6 namespace
+\f1\b0 \cf5  \cf7 std\cf5 ;\
+\
+\
+
+\f2\b \cf6 class
+\f1\b0 \cf5  Rectangle\{\
+
+\f2\b \cf6 public
+\f1\b0 \cf5 :\
+    Rectangle(
+\f2\b \cf6 int
+\f1\b0 \cf5  top,
+\f2\b \cf6 int
+\f1\b0 \cf5  right,
+\f2\b \cf6 int
+\f1\b0 \cf5  bottom,
+\f2\b \cf6 int
+\f1\b0 \cf5  left);\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  getArea();\
+
+\f2\b \cf6 private
+\f1\b0 \cf5 :\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  top,right,bottom,left,area;\
+\};\
+\
+\
+
+\f2\b \cf6 int
+\f1\b0 \cf5  main()\{\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  itsTop,itsRight,itsBottom,itsLeft;\
+    \cf7 cout\cf5 <<\cf4 "please enter the top,right,bottom,left in order:"\cf5 <<\cf8 endl\cf5 ;\
+    \cf7 cin\cf5 >>itsTop>>itsRight>>itsBottom>>itsLeft;\
+    \cf9 Rectangle\cf5  a(itsTop, itsRight, itsBottom, itsLeft);\
+    \cf7 cout\cf5 <<\cf4 "the area of the rectangle is "\cf5 <<a.\cf10 getArea\cf5 ()<<\cf8 endl\cf5 ;\
+\}\
+\
+\cf9 Rectangle\cf5 ::Rectangle(
+\f2\b \cf6 int
+\f1\b0 \cf5  top,
+\f2\b \cf6 int
+\f1\b0 \cf5  right,
+\f2\b \cf6 int
+\f1\b0 \cf5  bottom,
+\f2\b \cf6 int
+\f1\b0 \cf5  left):\cf9 top\cf5 (top),\cf9 right\cf5 (right),\cf9 bottom\cf5 (bottom),\cf9 left\cf5 (left)\{\
+    \
+\}\
+\
+
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 Rectangle\cf5 ::getArea()\{\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  width = \cf9 right\cf5  - \cf9 left\cf5 ;\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  height = \cf9 top\cf5  - \cf9 bottom\cf5 ;\
+    
+\f2\b \cf6 return
+\f1\b0 \cf5  (width*height);\
+\}\
+}
