@@ -1,0 +1,15 @@
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csprojAssemblyReference.cache
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+X:\cSharpLearning\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
