@@ -1,0 +1,7 @@
+C:\Homework\RestfulHomework\RestFulService\bin\Debug\RestFulService.exe.config
+C:\Homework\RestfulHomework\RestFulService\bin\Debug\RestFulService.exe
+C:\Homework\RestfulHomework\RestFulService\bin\Debug\RestFulService.pdb
+C:\Homework\RestfulHomework\RestFulService\obj\Debug\RestFulService.csprojAssemblyReference.cache
+C:\Homework\RestfulHomework\RestFulService\obj\Debug\RestFulService.csproj.CoreCompileInputs.cache
+C:\Homework\RestfulHomework\RestFulService\obj\Debug\RestFulService.exe
+C:\Homework\RestfulHomework\RestFulService\obj\Debug\RestFulService.pdb

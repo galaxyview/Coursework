@@ -1,0 +1,14 @@
+C:\Homework\RestfulHomework\RestFulClient\bin\Debug\RestFulClient.exe.config
+C:\Homework\RestfulHomework\RestFulClient\bin\Debug\RestFulClient.exe
+C:\Homework\RestfulHomework\RestFulClient\bin\Debug\RestFulClient.pdb
+C:\Homework\RestfulHomework\RestFulClient\bin\Debug\Newtonsoft.Json.dll
+C:\Homework\RestfulHomework\RestFulClient\obj\Debug\RestFulClient.csprojAssemblyReference.cache
+C:\Homework\RestfulHomework\RestFulClient\obj\Debug\RestFulClient.csproj.CoreCompileInputs.cache
+C:\Homework\RestfulHomework\RestFulClient\obj\Debug\RestFulClient.csproj.CopyComplete
+C:\Homework\RestfulHomework\RestFulClient\obj\Debug\RestFulClient.exe
+C:\Homework\RestfulHomework\RestFulClient\obj\Debug\RestFulClient.pdb
+C:\Homework\RestfulHomework\RestFulClient\obj\Debug\RestFulClient.Form1.resources
+C:\Homework\RestfulHomework\RestFulClient\obj\Debug\RestFulClient.csproj.GenerateResource.cache
+C:\Homework\RestfulHomework\RestFulClient\obj\Debug\RestFulClient.Form2.resources
+C:\Homework\RestfulHomework\RestFulClient\obj\Debug\RestFulClient.Properties.Resources.resources
+C:\Homework\RestfulHomework\RestFulClient\obj\Debug\RestFulClient.Form3.resources
