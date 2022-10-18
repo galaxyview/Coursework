@@ -1,0 +1,9 @@
+C:\WindowsHomework-csDll\WindowsHomework-csDll\bin\Debug\netcoreapp3.1\WindowsHomework-csDll.deps.json
+C:\WindowsHomework-csDll\WindowsHomework-csDll\bin\Debug\netcoreapp3.1\WindowsHomework-csDll.dll
+C:\WindowsHomework-csDll\WindowsHomework-csDll\bin\Debug\netcoreapp3.1\WindowsHomework-csDll.pdb
+C:\WindowsHomework-csDll\WindowsHomework-csDll\obj\Debug\netcoreapp3.1\WindowsHomework-csDll.csprojAssemblyReference.cache
+C:\WindowsHomework-csDll\WindowsHomework-csDll\obj\Debug\netcoreapp3.1\WindowsHomework-csDll.AssemblyInfoInputs.cache
+C:\WindowsHomework-csDll\WindowsHomework-csDll\obj\Debug\netcoreapp3.1\WindowsHomework-csDll.AssemblyInfo.cs
+C:\WindowsHomework-csDll\WindowsHomework-csDll\obj\Debug\netcoreapp3.1\WindowsHomework-csDll.csproj.CoreCompileInputs.cache
+C:\WindowsHomework-csDll\WindowsHomework-csDll\obj\Debug\netcoreapp3.1\WindowsHomework-csDll.dll
+C:\WindowsHomework-csDll\WindowsHomework-csDll\obj\Debug\netcoreapp3.1\WindowsHomework-csDll.pdb
