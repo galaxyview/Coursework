@@ -1,0 +1,17 @@
+X:\cSharpLearning\RetroSnake\RetroSnake\obj\Debug\netcoreapp3.1\RetroSnake.csprojAssemblyReference.cache
+X:\cSharpLearning\RetroSnake\RetroSnake\obj\Debug\netcoreapp3.1\RetroSnake.Form1.resources
+X:\cSharpLearning\RetroSnake\RetroSnake\obj\Debug\netcoreapp3.1\RetroSnake.csproj.GenerateResource.cache
+X:\cSharpLearning\RetroSnake\RetroSnake\obj\Debug\netcoreapp3.1\RetroSnake.AssemblyInfoInputs.cache
+X:\cSharpLearning\RetroSnake\RetroSnake\obj\Debug\netcoreapp3.1\RetroSnake.AssemblyInfo.cs
+X:\cSharpLearning\RetroSnake\RetroSnake\obj\Debug\netcoreapp3.1\RetroSnake.csproj.CoreCompileInputs.cache
+X:\cSharpLearning\RetroSnake\RetroSnake\bin\Debug\netcoreapp3.1\RetroSnake.exe
+X:\cSharpLearning\RetroSnake\RetroSnake\bin\Debug\netcoreapp3.1\RetroSnake.deps.json
+X:\cSharpLearning\RetroSnake\RetroSnake\bin\Debug\netcoreapp3.1\RetroSnake.runtimeconfig.json
+X:\cSharpLearning\RetroSnake\RetroSnake\bin\Debug\netcoreapp3.1\RetroSnake.runtimeconfig.dev.json
+X:\cSharpLearning\RetroSnake\RetroSnake\bin\Debug\netcoreapp3.1\RetroSnake.dll
+X:\cSharpLearning\RetroSnake\RetroSnake\bin\Debug\netcoreapp3.1\RetroSnake.pdb
+X:\cSharpLearning\RetroSnake\RetroSnake\obj\Debug\netcoreapp3.1\RetroSnake.dll
+X:\cSharpLearning\RetroSnake\RetroSnake\obj\Debug\netcoreapp3.1\RetroSnake.pdb
+X:\cSharpLearning\RetroSnake\RetroSnake\obj\Debug\netcoreapp3.1\RetroSnake.genruntimeconfig.cache
+X:\cSharpLearning\RetroSnake\RetroSnake\obj\Debug\netcoreapp3.1\RetroSnake.Properties.Resources.resources
+X:\cSharpLearning\RetroSnake\RetroSnake\obj\Debug\netcoreapp3.1\RetroSnake.Form2.resources
