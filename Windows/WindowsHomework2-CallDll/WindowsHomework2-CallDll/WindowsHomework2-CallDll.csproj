@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>WindowsHomework2_CallDll</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="WindowsHomework-csDll">
+      <HintPath>..\..\WindowsHomework-csDll\WindowsHomework-csDll\bin\Debug\netcoreapp3.1\WindowsHomework-csDll.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

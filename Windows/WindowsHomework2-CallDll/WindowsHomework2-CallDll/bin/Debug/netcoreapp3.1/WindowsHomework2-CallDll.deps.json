@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WindowsHomework2-CallDll/1.0.0": {
+        "dependencies": {
+          "WindowsHomework-csDll": "1.0.0.0"
+        },
+        "runtime": {
+          "WindowsHomework2-CallDll.dll": {}
+        }
+      },
+      "WindowsHomework-csDll/1.0.0.0": {
+        "runtime": {
+          "WindowsHomework-csDll.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsHomework2-CallDll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WindowsHomework-csDll/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
