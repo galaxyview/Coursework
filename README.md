@@ -1,20 +1,21 @@
 # Coursework
 This repository includes all of my lesson Coursework during my undergraduate years.
+#
 
-RestfulHomework 
+RestfulHomework:
 This is a project that uses Restful framework.
 
-CsharpLearning
+CsharpLearning:
 These are all courseworks of Basis of Software Construction(软件构造基础).
 
-Windows
+Windows:
 These are all coursework of Windows Principle and Application(Windows原理与应用).
 
-os
+os:
 These are all coursework of Operating System.
 
-algorithm 
+algorithm:
 These are all coursework of Algorithm.
 
-c++Lerning
+c++Lerning:
 These are all coursework of Advanced Programming Language(高级语言程序设计).
