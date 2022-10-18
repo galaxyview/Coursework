@@ -1,0 +1,15 @@
+X:\cSharpLearning\Homework4\Homework4\bin\Debug\netcoreapp3.1\Homework4.exe
+X:\cSharpLearning\Homework4\Homework4\bin\Debug\netcoreapp3.1\Homework4.deps.json
+X:\cSharpLearning\Homework4\Homework4\bin\Debug\netcoreapp3.1\Homework4.runtimeconfig.json
+X:\cSharpLearning\Homework4\Homework4\bin\Debug\netcoreapp3.1\Homework4.runtimeconfig.dev.json
+X:\cSharpLearning\Homework4\Homework4\bin\Debug\netcoreapp3.1\Homework4.dll
+X:\cSharpLearning\Homework4\Homework4\bin\Debug\netcoreapp3.1\Homework4.pdb
+X:\cSharpLearning\Homework4\Homework4\obj\Debug\netcoreapp3.1\Homework4.csprojAssemblyReference.cache
+X:\cSharpLearning\Homework4\Homework4\obj\Debug\netcoreapp3.1\Homework4.csproj.GenerateResource.cache
+X:\cSharpLearning\Homework4\Homework4\obj\Debug\netcoreapp3.1\Homework4.AssemblyInfoInputs.cache
+X:\cSharpLearning\Homework4\Homework4\obj\Debug\netcoreapp3.1\Homework4.AssemblyInfo.cs
+X:\cSharpLearning\Homework4\Homework4\obj\Debug\netcoreapp3.1\Homework4.csproj.CoreCompileInputs.cache
+X:\cSharpLearning\Homework4\Homework4\obj\Debug\netcoreapp3.1\Homework4.dll
+X:\cSharpLearning\Homework4\Homework4\obj\Debug\netcoreapp3.1\Homework4.pdb
+X:\cSharpLearning\Homework4\Homework4\obj\Debug\netcoreapp3.1\Homework4.genruntimeconfig.cache
+X:\cSharpLearning\Homework4\Homework4\obj\Debug\netcoreapp3.1\Homework4.Form1.resources
