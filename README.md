@@ -20,3 +20,6 @@ These are all coursework of Algorithm.
 
 c++Lerning:
 These are all coursework of Advanced Programming Language(高级语言程序设计).
+
+dataDig:
+This is a dataDigging project,which is the coursework of Introduction to Data Science(数据科学导论).
