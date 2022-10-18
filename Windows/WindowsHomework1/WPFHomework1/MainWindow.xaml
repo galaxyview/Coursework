@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPFHomework1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFHomework1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="234,0,10,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="97*"/>
+            <RowDefinition Height="48*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="ProducerNum" HorizontalAlignment="Left" Margin="405,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="ConsumerNum" HorizontalAlignment="Left" Margin="405,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="消费者数量：" HorizontalAlignment="Left" Margin="318,25,0,0" VerticalAlignment="Top" Height="31"/>
+        <Label Content="生产者数量：" HorizontalAlignment="Left" Margin="318,80,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn1" Content="开始" HorizontalAlignment="Left" Margin="339,186,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="27" Width="82" Click="btn1_Click"/>
+        <ListBox x:Name="listBox1" Margin="-218,10,243,19" Grid.RowSpan="2"/>
+        <TextBox x:Name="capacityNum" HorizontalAlignment="Left" Margin="405,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="120"/>
+        <Label Content="生产消费轮次：" HorizontalAlignment="Left" Margin="318,0,0,0" VerticalAlignment="Center" RenderTransformOrigin="0.174,0.626"/>
+        <Button x:Name="exit" Content="退出" HorizontalAlignment="Left" Margin="444,185,0,0" VerticalAlignment="Top" Height="28" Width="81" Click="exit_Click"/>
+
+    </Grid>
+</Window>
