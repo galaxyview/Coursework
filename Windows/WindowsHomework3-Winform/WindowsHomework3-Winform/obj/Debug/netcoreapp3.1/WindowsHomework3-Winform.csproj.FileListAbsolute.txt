@@ -1,0 +1,17 @@
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\bin\Debug\netcoreapp3.1\WindowsHomework3-Winform.exe
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\bin\Debug\netcoreapp3.1\WindowsHomework3-Winform.deps.json
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\bin\Debug\netcoreapp3.1\WindowsHomework3-Winform.runtimeconfig.json
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\bin\Debug\netcoreapp3.1\WindowsHomework3-Winform.runtimeconfig.dev.json
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\bin\Debug\netcoreapp3.1\WindowsHomework3-Winform.dll
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\bin\Debug\netcoreapp3.1\WindowsHomework3-Winform.pdb
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\obj\Debug\netcoreapp3.1\WindowsHomework3-Winform.csprojAssemblyReference.cache
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\obj\Debug\netcoreapp3.1\WindowsHomework3_Winform.Form1.resources
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\obj\Debug\netcoreapp3.1\WindowsHomework3_Winform.Form2.resources
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\obj\Debug\netcoreapp3.1\WindowsHomework3-Winform.csproj.GenerateResource.cache
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\obj\Debug\netcoreapp3.1\WindowsHomework3-Winform.AssemblyInfoInputs.cache
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\obj\Debug\netcoreapp3.1\WindowsHomework3-Winform.AssemblyInfo.cs
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\obj\Debug\netcoreapp3.1\WindowsHomework3-Winform.csproj.CoreCompileInputs.cache
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\obj\Debug\netcoreapp3.1\WindowsHomework3-Winform.dll
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\obj\Debug\netcoreapp3.1\WindowsHomework3-Winform.pdb
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\obj\Debug\netcoreapp3.1\WindowsHomework3-Winform.genruntimeconfig.cache
+C:\Homework\WindowsHomework3-Winform\WindowsHomework3-Winform\obj\Debug\netcoreapp3.1\WindowsHomework3_Winform.Form3.resources
