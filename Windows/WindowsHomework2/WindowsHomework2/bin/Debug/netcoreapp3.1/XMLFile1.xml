@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<node>
+	<rootnode>HKEY_CLASSES_ROOT</rootnode>
+	<rootnode>HKEY_CURRENT_USER</rootnode>
+	<rootnode>HKEY_LOCAL_MACHINE</rootnode>
+	<rootnode>HKEY_USERS</rootnode>
+	<rootnode>HKEY_CURRENT_CONFIG</rootnode>
+</node>
+
+
+
+<!--
+<Student>
+	<Name>张靓靓</Name>
+	<Age>20</Age>
+	<Hobby>唱歌歌</Hobby>
+	<Name>周杰杰</Name>
+	<Age>22</Age>
+	<Hobby>耍双节棍棍</Hobby>
+</Student>
+-->
