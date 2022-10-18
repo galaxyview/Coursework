@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+    正在创建库 C:\WindowsHomework2-CppDll\Release\WindowsHomework2-CppDll.lib 和对象 C:\WindowsHomework2-CppDll\Release\WindowsHomework2-CppDll.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  WindowsHomework2-CppDll.vcxproj -> C:\WindowsHomework2-CppDll\Release\WindowsHomework2-CppDll.dll
