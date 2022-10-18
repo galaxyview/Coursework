@@ -1,0 +1,20 @@
+﻿<Window x:Class="WindowsHomework3_WPF.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WindowsHomework3_WPF"
+        mc:Ignorable="d"
+        Title="Window1" Height="255" Width="396">
+    <Grid x:Name="window1" Margin="0,0,0,-5">
+        <Label x:Name="label1" Content="消息列表：" HorizontalAlignment="Left" Margin="23,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.495,-0.432"/>
+        <RichTextBox x:Name="richtextbox1" Margin="29,40,29,19">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>
